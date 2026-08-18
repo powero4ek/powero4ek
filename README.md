@@ -91,3 +91,6 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
 </div>
 
+<h3 align="left">🛠 Мои практики:</h3>
+https://team-4u5g.testit.software/projects/1/tests
+
